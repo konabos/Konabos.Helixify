@@ -1,37 +1,61 @@
-# Sitecore Habitat is No Longer Maintained
+# Konabos Helixify Module
 
-This "original" Sitecore Habitat is no longer being updated or maintained, and is being replaced with [Sitecore Helix Examples](https://sitecore.github.io/Helix.Examples/). It's still a valuable reference for aspects of Helix which are not yet reflected in the new examples, but there will be no further releases of Habitat.
+                                  ww,                         
+                    r"**&,   L /`g                            
+            $M     ,wggw, `k ]$  N&                           
+            $r   ,$$,gg,,'~  ,$$  @w,                         
+            \$gg$$$@"-s* ,g@$$P      *,                       
+              *$$@" gF g@$$$$F | |'   x'=                     
+          g,,y$@" gl ,@$$$$$@ |     |L  %g                    
+          *M* ,gll ,$$$$$$$F |    |`,gQ $$@g                  
+    g$$$$@gg$$lllL @$$$$$$$r  ,''  *&&ll  *M                  
+       `""***"`Al ]$$$$$$$$L ]ll&        '`                   
+         $  %g&*l ]$$$$$$$$$  Yll$            /|!L:,,,,       
+          $$g,,w$l  $$$$$$$$$@  $ll$          '  '``''''''    
+          $lllll$  ]$$$$$$@R**  *lll,      @@,       '" :| L  
+            "^"     %$$P`,g@@@r   "*4&,  ,@$$$F            '!   
+                      `g@$$$$" ,g@$$Qgww,,,,,,,,,,          
+                      $$$$$$F $llllllllllllllllllllL          
+                    /$$$$$$@ '$llllllllllllllM" Yl$           
+                    /$$$$$$$$@g  `"****""`l&   @F,F           
+                  ,N*"  ]$$$$$$$$@@@@@@` "    g",`            
+                    $$lL ]$$$$$$$$$$P` r     / ;`             
+                      *lg ]$$$$$P"  ,r  ggg, ,$l              
+                        "  N"  ,<&"  g$$$$$k `                
+                              '"`         `                   
 
-You are free to fork this repository for further update, but please rename it if you do so, as to not create further confusion with the still maintained Habitat Home demo site collection.
+    888    888          888 d8b          d8b  .d888          
+    888    888          888 Y8P          Y8P d8P             
+    888    888          888                  888             
+    8888888888  .d88b.  888 888 888  888 888 888    888  888 
+    888    888 d8P  Y8b 888 888 `Y8bd8P' 888 888888 888  888 
+    888    888 88888888 888 888   X88K   888 888    888  888 
+    888    888 Y8b.     888 888 .d8""8b. 888 888    Y8b..888 
+    888    888  "Y8888  888 888 888  888 888 888     "Y88888 
+                                                        888  
+                                                    Y88  888 
+                                                    "8888P'  
 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
+The past few years has seen fairly wide adoption of [Sitecore Helix](https://helix.sitecore.net/) by the community. Helix is a set of recommended practices and conventions for the solution architecture of Sitecore product implementations. There are many benfits to following these practices, reducing both project complexity, tight coupling and maintainabilty in the future. 
 
-<hr />
+However, don't confuse Helix *principles* with [Habitat](http://github.com/sitecore/habitat), the sample site which had been created to highlight the Helix conventions. Unfortunately, it was not uncommon for this project to be used as a starter kit, leading to bloated projects and requirements moulded to meet the demo features, rather than code being created to meet the specific business needs.
 
-# Sitecore Habitat
+## Introducing the Helixify Module
 
-Habitat is an example Sitecore solution built on the [Helix architecture principles](http://helix.sitecore.net). It is designed to show how a Helix-based solution can be architected, and to demonstrate how tooling can be used to accomplish publishing, serialization, and testing. Habitat **is not intended** to be a starter solution, or as a recommendation of tools for your solutions.
+After hundreds of hours of research and development, our team is happy to introduce to the Konabos Helixify Module. The module is designed to add instant Helix compatilbility to **any** Sitecore project. The package has been tested and compatible with all versions of Sitecore back to version 6.0. Yes, we know you're still out there, even if you don't admit it, but we here at Konabos still love you nonetheless.
 
-The architecture and methodology focuses on:
+Read more in our blog post.
 
-* Simplicity - *A consistent and discoverable architecture*
-* Flexibility - *Change and add quickly and without worry*
-* Extensibility - *Simply add new features without steep learning curve*
+## Is this a starter kit or template solution?
 
-For getting started, please check out the [Documentation](./docs).  
-For more information on **Helix**, please go to [helix.sitecore.net](http://helix.sitecore.net).
+You should not clone this repository for the purposes of starting a new Sitecore project. There are other community solutions which can be used as a starter for Helix-based Sitecore implementations. All the reference examples are intended as a **reference example** of a Helix-based Sitecore implementation. Weird.
 
+## Is this just like Sitecore Habitat?
 
-## Is Habitat a starter kit or template solution?
+Yes, pretty much. Actually, it's exactly that. You probably shouldn't use this code. But while you are here, move you mouse down to the bottom right of your system tray and then click on the time. When the calendar pops up, be sure to check what day of the week it is and what day of the month it is.
 
-No. You should not clone this repository for the purposes of starting a new Sitecore project. There are other community solutions which can be used as a starter for Helix-based Sitecore implementations. Habitat is intended as a **reference example** of a Helix-based Sitecore implementation.
+## How can I get help with the Konabos Helixify module?
 
-## Is Habitat supported by Sitecore?
+For usage questions regarding Konabos Helixify module, installation or code, or questions about Helix, please find us on [Sitecore Stackexchange](https://sitecore.stackexchange.com/) or on [Sitecore Community Slack](https://sitecore.chat). 
 
-Sitecore maintains the Helix documentation and Habitat example, but Habitat code is not supported by Sitecore Product Support Services. Please do not submit support tickets regarding Habitat.
-
-## How can I get help with Habitat?
-
-For usage questions regarding Habitat installation or code, or questions about Helix, please utilize [Sitecore Stackexchange](https://sitecore.stackexchange.com/) or [#helix-habitat](slack://channel?team=T09SHRBNU&id=C0HNYDJ5V) on [Sitecore Community Slack](https://www.akshaysura.com/2015/10/27/how-to-join-sitecore-slack-community-chat/). 
-
-You can use GitHub to submit [bug reports](https://github.com/Sitecore/Habitat/issues/new?template=bug_report.md) or [feature requests](https://github.com/Sitecore/Habitat/issues/new?template=feature_request.md) for Habitat. Please do not submit usage questions via GitHub.
+You can use GitHub to submit [bug reports](https://github.com/Sitecore/Habitat/issues/new?template=bug_report.md) or [feature requests](https://github.com/Sitecore/Habitat/issues/new?template=feature_request.md) for Konabos Helixify, but we will only entertain such requests when they are followed up with the coordinates to buried pirate treasure, or toilet paper (at least 24 rolls, 2 ply).
