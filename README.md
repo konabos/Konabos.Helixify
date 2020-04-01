@@ -36,6 +36,10 @@
                                                     Y88  888 
                                                     "8888P'  
 
+> 🤡 Thank you everyone for reading. If you checked the date, and multiple other cues throughout the post and the links, most of you caught on that this was an [April Fools joke](https://en.wikipedia.org/wiki/April_Fools%27_Day). Please do read the guidelines on the Helix site, please don't copy+paste or use Habitat as a Starter Kit 😊 
+>
+> We hope that it brought a smile to your face. Stay safe and look after yourselves. ❤
+
 The past few years has seen fairly wide adoption of [Sitecore Helix](https://helix.sitecore.net/) by the community. Helix is a set of recommended practices and conventions for the solution architecture of Sitecore product implementations. There are many benfits to following these practices, reducing both project complexity, tight coupling and maintainabilty in the future. 
 
 However, don't confuse Helix *principles* with [Habitat](http://github.com/sitecore/habitat), the sample site which had been created to highlight the Helix conventions. Unfortunately, it was not uncommon for this project to be used as a starter kit, leading to bloated projects and requirements moulded to meet the demo features, rather than code being created to meet the specific business needs.
